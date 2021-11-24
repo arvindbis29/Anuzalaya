@@ -5,7 +5,8 @@ Online hospital management System
 
 
 
-###install python 
-###install Tkinter using pip 
+### install python 
+
+### install Tkinter using pip 
 ### install Mysql Workbench
-###install mysql connector using pip
+### install mysql connector using pip
