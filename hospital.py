@@ -8,6 +8,7 @@ import mysql.connector
 
 
 
+
 class Hospital:
     def __init__(self,root):
         self.root=root
